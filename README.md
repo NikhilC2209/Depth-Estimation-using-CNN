@@ -1,5 +1,9 @@
 # Depth-Estimation-using-RCNN
 
+## VIDEO LINK: https://github.com/NikhilC2209/Depth-Estimation-using-RCNN
+
+# SETUP
+
 ## 1.0 INSTALLATION
 
 Create a new virtual env (pip)
