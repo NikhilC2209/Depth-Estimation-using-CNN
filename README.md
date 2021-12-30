@@ -1,6 +1,6 @@
 # Depth-Estimation-using-RCNN
 
-## VIDEO LINK: https://github.com/NikhilC2209/Depth-Estimation-using-RCNN
+VIDEO LINK: https://github.com/NikhilC2209/Depth-Estimation-using-RCNN
 
 # SETUP
 
