@@ -28,6 +28,9 @@ The model used to train the dataset is from U-Net architecture
 
 Run the train.py file and tune the hyperparameters to train your own model or use the existing parameters to train the U Net model 
 
+### TRAINING RESULTS
+![](https://github.com/NikhilC2209/Depth-Estimation-using-CNN/blob/master/examples/train.png?raw=true)
+
 ## 3.0 VISUALIZE DEPTH MAPS
 
 Use the test.py file and provide the trained model as the parameter to visualize depth maps and compare with the original images
