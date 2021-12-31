@@ -2,6 +2,8 @@
 
 VIDEO LINK: https://drive.google.com/file/d/1VDUq3U8dLKs6ZhImQUvlDP7UO9prbjXq/view?usp=sharing
 
+DATASET: Dataset is taken from the DIODE (Dense Indoor and Outdoor DEpth) dataset, Since training data is too large run the train.py file to download the training and validation dataset
+
 # SETUP
 
 ## 1.0 INSTALLATION
